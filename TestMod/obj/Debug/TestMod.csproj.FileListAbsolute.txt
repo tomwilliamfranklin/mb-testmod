@@ -1,0 +1,6 @@
+D:\Program Files\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\TestMod\bin\Win64_Shipping_Client\TestMod.dll
+D:\Program Files\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\TestMod\bin\Win64_Shipping_Client\TestMod.pdb
+D:\Code\mount-and-blade\mb-testmod\TestMod\TestMod\obj\Debug\TestMod.csproj.CoreCompileInputs.cache
+D:\Code\mount-and-blade\mb-testmod\TestMod\TestMod\obj\Debug\TestMod.csproj.CopyComplete
+D:\Code\mount-and-blade\mb-testmod\TestMod\TestMod\obj\Debug\TestMod.dll
+D:\Code\mount-and-blade\mb-testmod\TestMod\TestMod\obj\Debug\TestMod.pdb
