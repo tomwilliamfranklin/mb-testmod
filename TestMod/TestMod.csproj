@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="NoHarmonyLoader">
+      <HintPath>..\..\..\..\Program Files\SteamLibrary\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\TestMod\NoHarmonyLoader.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -165,6 +168,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\ExampleMapVisiblityModel.cs" />
     <Compile Include="MySubModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
